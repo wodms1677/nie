@@ -1,0 +1,11 @@
+* {margin:0;padding:0;vertical-align:middle;box-sizing:border-box;}
+html {overflow-x:hidden;overflow-y:scroll;scrollbar-width:none;}
+html::-webkit-scrollbar {display:none;}
+html,body {width:100%;height:100%;}
+body {font:normal 14px/1 'SpoqaHanSansNeo-Medium','arial';color:#212529;background:#fff;}
+a {color:#212529;text-decoration:none;}
+ul,li,ol {list-style:none;}
+em,i,address {font-style:normal;}
+h1,h2,h3,h4,h5,h6 {font-size:14px;font-weight:normal;}
+header,main,footer,aside,nav,article,section {display:block;}
+.blind {text-indent:-2000px;display:block;overflow:hidden;}
